@@ -1,7 +1,9 @@
-##HOLA!!!!
+HOLA!!!!
 
-I'm a recent grad (7 months ago graduated) that likes to build apps and softwares
-I'm looking for Developer Job or an IT Job.
-And hope you like what I have so far in my git.
+Full Stack Software Developer
 
-Have a great DAY 
+Recent grad (7 months ago graduated) that likes to build apps and softwares
+
+Working with Java, Js, Python, C#, SQL, HTML and CSS.
+
+Have an amazing day!
