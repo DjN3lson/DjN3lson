@@ -1,6 +1,6 @@
 HOLA!!!!
 
-Full Stack Software Developer
+Software Developer
 
 Recent grad (7 months ago graduated) that likes to build apps and softwares
 
