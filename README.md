@@ -2,7 +2,9 @@ HOLA!!!!
 
 Software Developer
 
-Recent grad (7 months ago graduated) that likes to build apps and softwares
+Computer Programmer Graduate from Sheridan College
+&&
+Currently Studying Computer Science Engineer at Universidad de la Americas de Puebla (UDLAP)
 
 Working with Java, Js, Python, C#, SQL, HTML and CSS.
 
